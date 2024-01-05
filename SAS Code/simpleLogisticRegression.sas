@@ -1,4 +1,4 @@
-LIBNAME project "/home/u60921783/My folders/SAS Project 2023";
+LIBNAME project "/home/My folders/SAS Project 2023";
 
 Proc Logistic data= Project.group_7_train plots=ROC;
 	Title "Simple Logistic regression model for Temperature vs. Rented_Bike_Count";
