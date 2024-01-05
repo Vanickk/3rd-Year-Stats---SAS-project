@@ -1,4 +1,4 @@
-LIBNAME project "/home/u60921783/My folders/SAS Project 2023";
+LIBNAME project "/home/My folders/SAS Project 2023";
 
 /*Correlation Analysis between all continous variables*/
 Proc Corr Data=Project.group_7_train;
